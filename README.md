@@ -18,7 +18,7 @@ Graduation project
     ```bash
     git clone https://github.com/lonleylokle/blockchain_game.git
     ```
-3. Launch Ethereum testnet in Ganache.
+3. Launch Ethereum test net in Ganache.
 
 4. Run the development console.
     ```javascript
